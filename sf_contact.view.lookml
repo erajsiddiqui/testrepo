@@ -220,5 +220,4 @@
 
   - measure: count
     type: count
-    drill_fields: [id, assistant_name, last_name, name, first_name]
-
+    drill_fields: [id, assistant_name, first_name, last_name, name]

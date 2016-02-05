@@ -229,4 +229,3 @@
   - measure: count
     type: count
     drill_fields: [id, name]
-

@@ -93,4 +93,3 @@
   - measure: count
     type: count
     drill_fields: [id, solution_name]
-

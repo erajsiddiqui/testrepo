@@ -148,5 +148,4 @@
 
   - measure: count
     type: count
-    drill_fields: [id, stage_name, forecast_category_name, name]
-
+    drill_fields: [id, forecast_category_name, name, stage_name]
